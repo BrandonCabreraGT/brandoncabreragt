@@ -13,7 +13,7 @@ This portfolio showcases both my technical execution of structured testing metho
 * **Focus:** Structured Test Case Generation, Test Planning, and Web Application Security Testing.
 * **Overview:** This project demonstrates my ability to take a web application, analyze its business logic, and build a formal suite of test documentation. It highlights my understanding of testing cycles, edge-case validation, and how to verify standard web functionalities.
 
-### 📂 [Project 02: Enterprise CRM Integration - Ad-Hoc Bug Tracking](./Manual-QA-Portfolio/Project-02-Enterprise-CRM-Integration/)
+### 📂 [Project 02: Enterprise CRM Integration - Ad-Hoc Bug Tracking](https://github.com/BrandonCabreraGT/Manual-QA-Portfolio/tree/main/Project-02-Enterprise-CRM-Integration)
 * **Focus:** Real-World Bug Isolation, Review of System Communication Delays, and Cross-Functional Management.
 * **Overview:** This project highlights critical system defects I discovered organically during daily operational workflows. Instead of relying on a pre-written test cycle, it showcases my ability to spot unexpected system failures, identify delays in communication between systems, and document them clearly for engineering.
 
