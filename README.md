@@ -1,7 +1,7 @@
 # Hi there! I'm Brandon Cabrera 👋
 
 ## About Me
-I am a **Project Coordinator** transitioning into **Manual Software Quality Assurance (QA)**. My background in cross-functional coordination gives me a unique advantage in QA: I find bugs and understand their direct business impact, communicate clearly with development teams, and know how to prioritize issues to keep projects moving forward.
+I am a **Project Coordinator** transitioning into **Manual Software Quality Assurance (QA)**. My background in cross-functional coordination gives me a unique advantage in QA to find bugs and understand their direct business impact, communicate clearly with development teams, and know how to prioritize issues to keep projects moving forward.
 
 This portfolio showcases both my technical execution of structured testing methodologies and my real-world, ad-hoc problem-solving skills.
 
