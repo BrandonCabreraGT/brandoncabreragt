@@ -9,7 +9,7 @@ This portfolio showcases both my technical execution of structured testing metho
 
 ## Portfolio Projects
 
-### 📂 [Project 01: OWASP Juice Shop - Structured QA Execution](./Manual-QA-Portfolio/tree/main/Project-01-OWASP%20Juice%20Shop/)
+### 📂 [Project 01: OWASP Juice Shop - Structured QA Execution](https://github.com/BrandonCabreraGT/Manual-QA-Portfolio/tree/main/Project-01-OWASP%20Juice%20Shop)
 * **Focus:** Structured Test Case Generation, Test Planning, and Web Application Security Testing.
 * **Overview:** This project demonstrates my ability to take a web application, analyze its business logic, and build a formal suite of test documentation. It highlights my understanding of testing cycles, edge-case validation, and how to verify standard web functionalities.
 
